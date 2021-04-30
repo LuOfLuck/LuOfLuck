@@ -1,32 +1,26 @@
-### Hi there 👋
+### Hola mundo 👋
 
-<!--
-**LuOfLuck/LuOfLuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Soy un desarrollador web y entusiasta del aprendizaje. Realmente disfruto aprendiendo frameworks y tecnologías orientados al backend como Django, node y php aunque tambien siento agrado hacia el Frontend.
 
-Habilidades y experiencia:
-💻 HTML, CSS, JavaScript
-🐍 PHP, Python
-🔨 Django
+### **_Habilidades y experiencia:_**
+- 💻 HTML, CSS, JavaScript
+- 🐍 PHP, Python
+- 🔨 Django
+- 🔨 API REST, MVC, POO, y Selenium WebDriver 🔨
 
-🔨 API REST, MVC, POO, y Selenium WebDriver 🔨
+### **_Trabajo y practicas (backend):_**
 
-Trabajo y practicas (backend):
-https://luofluck.pythonanywhere.com/ 
+- [Volder Online](https://luofluck.pythonanywhere.com/)
+- [Preguntas](http://luofluck.epizy.com/preguntas/)
 
-http://luofluck.epizy.com/preguntas/
+### **_Trabajo y practicas (Frontend):_**
 
-Trabajo y practicas (Frontend):
-https://luofluck.github.io/drekzenn/
-
-https://luofluck.github.io/carta-romantica/
-
-http://luofluck.epizy.com/calculadora/
-
-http://luofluck.epizy.com/animaciones/
+- [DrekZenn](https://luofluck.github.io/drekzenn/)
+- [Carta romantica](https://luofluck.github.io/carta-romantica/)
+- [Calculadoras](http://luofluck.epizy.com/calculadora/)
+- [Practica animaciones](http://luofluck.epizy.com/animaciones/)
+- [Portafolios(en desarrollo)](https://luofluck.github.io/)
 
 
 
-
--->
