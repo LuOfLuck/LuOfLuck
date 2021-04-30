@@ -4,7 +4,7 @@
 Soy un desarrollador web y entusiasta del aprendizaje. Realmente disfruto aprendiendo frameworks y tecnologías orientados al backend como Django, node y php aunque tambien siento agrado hacia el Frontend.
 
 ### **_Habilidades y experiencia:_**
-- 💻 HTML, CSS, JavaScript
+- 💻 HTML, CSS, JavaScript, Bootstrap
 - 🐍 PHP, Python
 - 🔨 Django
 - 🔨 API REST, MVC, POO, y Selenium WebDriver 🔨
