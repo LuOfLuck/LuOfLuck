@@ -13,6 +13,7 @@ Soy un desarrollador web y entusiasta del aprendizaje. Realmente disfruto aprend
 
 - [Volder Online](https://luofluck.pythonanywhere.com/)
 - [Preguntas](http://luofluck.epizy.com/preguntas/)
+- [Perfil escuela](https://luofluckv2.pythonanywhere.com/)
 
 ### **_Trabajo y practicas (Frontend):_**
 
