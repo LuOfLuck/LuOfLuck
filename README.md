@@ -19,7 +19,7 @@ Soy un desarrollador web y entusiasta del aprendizaje. Realmente disfruto aprend
 ### **_Trabajo y practicas (Frontend):_**
 
 - [DrekZenn](https://luofluck.github.io/drekzenn/)
-- [Carta romantica](https://luofluck.github.io/carta-romantica/)
+- [Carta romantica (advertencia: esta pagina es demasiado romantica)](https://luofluck.github.io/carta-romantica/)
 - [Calculadoras](http://luofluck.epizy.com/calculadora/)
 - [Practica animaciones](http://luofluck.epizy.com/animaciones/)
 - [Portafolios(en desarrollo)](https://luofluck.github.io/)
