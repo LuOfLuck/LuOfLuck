@@ -22,7 +22,7 @@ Soy un desarrollador web y entusiasta del aprendizaje. Realmente disfruto aprend
 - [Carta romantica (advertencia: esta pagina es demasiado romantica)](https://luofluck.github.io/carta-romantica/)
 - [Calculadoras](http://luofluck.epizy.com/calculadora/)
 - [Portafolios(en desarrollo)](https://luofluck.github.io/)
-- [Practica animaciones](http://luofluck.epizy.com/animaciones/)
+- [Practica animaciones](https://luofluck.github.io/animaciones/)
 
 
 
