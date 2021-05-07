@@ -15,7 +15,7 @@ Soy un desarrollador web y entusiasta del aprendizaje. Realmente disfruto aprend
 - [Preguntas](http://luofluck.epizy.com/preguntas/)
 - [Perfil escuela](https://luofluckv2.pythonanywhere.com/)
 - [Tienda (en desarrollo)](https://luofluck2.pythonanywhere.com/)
-
+- [Juego CRUD (primeras etapas de desarrollo)](http://luofluck.epizy.com/poo3/formulario.php)
 ### **_Trabajo y practicas (Frontend):_**
 
 - [DrekZenn](https://luofluck.github.io/drekzenn/)
