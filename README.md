@@ -16,7 +16,7 @@ Soy un desarrollador web y entusiasta del aprendizaje. Realmente disfruto aprend
 
 
 - **Preguntas** - [README](https://github.com/LuOfLuck/preguntas#readme)
-  [![Captura de pantalla (326)](https://user-images.githubusercontent.com/77320589/119204419-c425a300-ba6b-11eb-9643-9e86c2761932.png)](http://luofluck.epizy.com/preguntas/)
+  [![Captura de pantalla (334)](https://user-images.githubusercontent.com/77320589/119210153-3b196680-ba81-11eb-91e4-3b6991119e0e.png)](http://luofluck.epizy.com/preguntas/)
 
 
 - **Perfil escuela** - [README](https://github.com/LuOfLuck/perfil-sholl#readme)
