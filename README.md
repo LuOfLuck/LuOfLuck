@@ -12,17 +12,12 @@ Soy un desarrollador web y entusiasta del aprendizaje. Realmente disfruto aprend
 ![file_type_php_icon_130266](https://user-images.githubusercontent.com/77320589/119244645-07a20f00-bb49-11eb-96b1-a569c09f8d78.png)
 ![file_type_python_icon_130221](https://user-images.githubusercontent.com/77320589/119244646-0b359600-bb49-11eb-99ec-e3b5f2728bf2.png)
 ![django_line_logo_icon_146560](https://user-images.githubusercontent.com/77320589/119244683-3b7d3480-bb49-11eb-930c-1d7be42f3137.png)
-![selenium](https://user-images.githubusercontent.com/77320589/119244651-1092e080-bb49-11eb-8ac4-0d365e3001d2.png)
 ![api_interface_icon_150308](https://user-images.githubusercontent.com/77320589/119244736-cc541000-bb49-11eb-89f7-cb37e044fe04.png)
 
 
-## **_Trabajos (backend):_**
-- **Volder Online** - [README](https://github.com/LuOfLuck/volder#readme)
- [![Captura de pantalla (325)](https://user-images.githubusercontent.com/77320589/119204253-5d07ee80-ba6b-11eb-957a-3dbdb4ef4ceb.png)](https://luofluck.pythonanywhere.com/)
-
-
-- **Preguntas** - [README](https://github.com/LuOfLuck/preguntas#readme)
-  [![Captura de pantalla (334)](https://user-images.githubusercontent.com/77320589/119210153-3b196680-ba81-11eb-91e4-3b6991119e0e.png)](http://luofluck.epizy.com/preguntas/)
+## **_Trabajos profesionales:_**
+- **Volder Online** - [README](https://github.com/LuOfLuck/volder#readme) 
+ [![Captura de pantalla (337)](https://user-images.githubusercontent.com/77320589/119441253-34e2ee80-bcfc-11eb-9851-059d5489aa79.png)](https://luofluck.pythonanywhere.com/)
 
 
 - **Perfil escuela** - [README](https://github.com/LuOfLuck/perfil-sholl#readme)
@@ -33,28 +28,27 @@ Soy un desarrollador web y entusiasta del aprendizaje. Realmente disfruto aprend
 [![Captura de pantalla (328)](https://user-images.githubusercontent.com/77320589/119205573-f258b200-ba6e-11eb-904f-52b869b311e8.png)](https://luofluck2.pythonanywhere.com/)
 
 
-- [**Juego CRUD (primeras etapas de desarrollo)**](http://luofluck.epizy.com/poo3/formulario.php)
 
-
-## **_Trabajos (Frontend):_**
+## **_Trabajos menos serios/juegos para practicar:_**
 - **DrekZenn** - [README](https://github.com/LuOfLuck/drekzenn#readme)
   [![Captura de pantalla (329)](https://user-images.githubusercontent.com/77320589/119204776-c805f500-ba6c-11eb-8f8a-ed9ddc8f8e1e.png)](https://luofluck.github.io/drekzenn/)
   
+ - **Preguntas** - [README](https://github.com/LuOfLuck/preguntas#readme)
+  [![Captura de pantalla (334)](https://user-images.githubusercontent.com/77320589/119210153-3b196680-ba81-11eb-91e4-3b6991119e0e.png)](http://luofluck.epizy.com/preguntas/)
+
   
 - **Carta romantica** - [README](https://github.com/LuOfLuck/carta-romantica)
   [![Captura de pantalla (330)](https://user-images.githubusercontent.com/77320589/119204838-f84d9380-ba6c-11eb-89a1-6d864e0a959a.png)](https://luofluck.github.io/carta-romantica/)
   
-  
-- **Calculadoras** - [README](https://github.com/LuOfLuck/calculadoras#readme)
-  [![Captura de pantalla (331)](https://user-images.githubusercontent.com/77320589/119205835-c8ec5600-ba6f-11eb-9832-4940e935ddc4.png)](http://luofluck.epizy.com/calculadora/)
+ 
   
   
-- [Portafolios(en desarrollo)](https://luofluck.github.io/)
 
 
-
-### **_Practicas de codigo Frontend y backend_**
-
+### **_retos, en desarrollo, practicas simples_**
+- [Calculadoras](http://luofluck.epizy.com/calculadora/) - [README](https://github.com/LuOfLuck/calculadoras#readme)
 - [Practica animaciones](https://luofluck.github.io/animaciones/)
+- [Juego CRUD (en desarrollo)](http://luofluck.epizy.com/poo3/formulario.php)
+- [Portafolios(en desarrollo)](https://luofluck.github.io/)
 - [Reto front - digital](https://github.com/LuOfLuck/md-digital-front)
 - [Reto Python - WoowUp](https://github.com/LuOfLuck/WoowUp-challenge)
