@@ -2,7 +2,7 @@
 # Hola mundo 👋
 
 
-Soy un desarrollador web y entusiasta del aprendizaje. Realmente disfruto aprendiendo frameworks y tecnologías orientados al backend como Django, node y php aunque tambien siento agrado hacia el Frontend.
+Soy un desarrollador web y entusiasta del aprendizaje. Realmente disfruto programar, actualmente siento mas agrado hacia el frontend y estoy enfocando mis habilidades a mejorar en JavaScript, pero eso no quita a que practique otros lenguajes.
 
 ## **_Habilidades y experiencia:_**
 ![file_type_html_icon_130541](https://user-images.githubusercontent.com/77320589/119244632-f3f6a880-bb48-11eb-9bf6-b6058d83bd74.png)
