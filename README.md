@@ -17,7 +17,7 @@ Soy un desarrollador web y entusiasta del aprendizaje. Realmente disfruto progra
 
 ## **_Trabajos profesionales:_**
 - **Volder Online** - [README](https://github.com/LuOfLuck/volder#readme) 
- [![Captura de pantalla (337)](https://user-images.githubusercontent.com/77320589/119441253-34e2ee80-bcfc-11eb-9851-059d5489aa79.png)](https://luofluck.pythonanywhere.com/)
+ [![Captura de pantalla (391)](https://user-images.githubusercontent.com/77320589/135738743-82ad1e68-25e6-4b2a-a3df-0d99b0c2d3c7.png)](https://luofluck.pythonanywhere.com/)
 
 
 - **Perfil escuela** - [README](https://github.com/LuOfLuck/perfil-sholl#readme)
