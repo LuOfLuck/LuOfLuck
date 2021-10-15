@@ -23,9 +23,6 @@ Soy un desarrollador web y entusiasta del aprendizaje. Realmente disfruto progra
 - **Perfil escuela** - [README](https://github.com/LuOfLuck/perfil-sholl#readme)
   [![Captura de pantalla (327)](https://user-images.githubusercontent.com/77320589/119204548-18308780-ba6c-11eb-9b62-ffc877eccf48.png)](https://luofluckv2.pythonanywhere.com/)
 
-- **Covid-19** - [README](https://github.com/LuOfLuck/covid-19)
- [![Captura de pantalla (386)](https://user-images.githubusercontent.com/77320589/131936764-e73cf601-ed6e-48a3-9c02-1644b8c1262c.png)](https://luofluck.github.io/covid-19/)
-
 ## **_Trabajos menos serios/juegos para practicar:_**
 
 
@@ -35,16 +32,16 @@ Soy un desarrollador web y entusiasta del aprendizaje. Realmente disfruto progra
 - **DrekZenn** - [README](https://github.com/LuOfLuck/drekzenn#readme)
   [![Captura de pantalla (329)](https://user-images.githubusercontent.com/77320589/119204776-c805f500-ba6c-11eb-8f8a-ed9ddc8f8e1e.png)](https://luofluck.github.io/drekzenn/)
   
+
+- **Covid-19** - [README](https://github.com/LuOfLuck/covid-19)
+ [![Captura de pantalla (386)](https://user-images.githubusercontent.com/77320589/131936764-e73cf601-ed6e-48a3-9c02-1644b8c1262c.png)](https://luofluck.github.io/covid-19/)
+
 - **Carta romantica** - [README](https://github.com/LuOfLuck/carta-romantica)
   [![Captura de pantalla (330)](https://user-images.githubusercontent.com/77320589/119204838-f84d9380-ba6c-11eb-89a1-6d864e0a959a.png)](https://luofluck.github.io/carta-romantica/)
   
 
  - **Preguntas** - [README](https://github.com/LuOfLuck/preguntas#readme)
   [[![Captura de pantalla (334)](https://user-images.githubusercontent.com/77320589/119210153-3b196680-ba81-11eb-91e4-3b6991119e0e.png)](http://luofluck.epizy.com/preguntas)
-
-  
-
-  
 
 
 ### **_retos, en desarrollo, practicas simples_**
