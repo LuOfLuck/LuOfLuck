@@ -16,7 +16,7 @@ Soy un desarrollador web y entusiasta del aprendizaje. Realmente disfruto progra
 
 
 ## **_Trabajos profesionales:_**
-- **Volder Online** - [README](https://github.com/LuOfLuck/volder#readme) 
+- **Volder Online** - [README](https://github.com/LuOfLuck/volder#readme) *Actualmente trabajando en remodelación frontend - puede tener errores de adaptación *
  [![Captura de pantalla (391)](https://user-images.githubusercontent.com/77320589/135738743-82ad1e68-25e6-4b2a-a3df-0d99b0c2d3c7.png)](https://luofluck.pythonanywhere.com/)
 
 
@@ -24,7 +24,7 @@ Soy un desarrollador web y entusiasta del aprendizaje. Realmente disfruto progra
   [![Captura de pantalla (327)](https://user-images.githubusercontent.com/77320589/119204548-18308780-ba6c-11eb-9b62-ffc877eccf48.png)](https://luofluckv2.pythonanywhere.com/)
 
 - **Covid-19** - [README](https://github.com/LuOfLuck/covid-19)
- [![Captura de pantalla (386)](https://user-images.githubusercontent.com/77320589/131936764-e73cf601-ed6e-48a3-9c02-1644b8c1262c.png)(https://luofluck.github.io/covid-19/)]
+ [![Captura de pantalla (386)](https://user-images.githubusercontent.com/77320589/131936764-e73cf601-ed6e-48a3-9c02-1644b8c1262c.png)](https://luofluck.github.io/covid-19/)
 
 ## **_Trabajos menos serios/juegos para practicar:_**
 
