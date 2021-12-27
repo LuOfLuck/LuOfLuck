@@ -22,9 +22,6 @@ Soy un desarrollador web y entusiasta del aprendizaje. Realmente disfruto progra
 - **Scape Web - beta** - [README](https://github.com/LuOfLuck/scapeweb)
 [![Captura de pantalla (22)](https://user-images.githubusercontent.com/77320589/146469122-30f17bee-f98d-4086-bd6a-020e20068a81.png)](https://www.scapeweb.online/)
 
-- **Perfil escuela** - [README](https://github.com/LuOfLuck/perfil-sholl#readme)
-  [![Captura de pantalla (327)](https://user-images.githubusercontent.com/77320589/119204548-18308780-ba6c-11eb-9b62-ffc877eccf48.png)](https://luofluckv2.pythonanywhere.com/)
-
 
 ## **_Trabajos menos serios/juegos para practicar:_**
 
@@ -42,6 +39,9 @@ Soy un desarrollador web y entusiasta del aprendizaje. Realmente disfruto progra
 - **Carta romantica** - [README](https://github.com/LuOfLuck/carta-romantica)
   [![Captura de pantalla (330)](https://user-images.githubusercontent.com/77320589/119204838-f84d9380-ba6c-11eb-89a1-6d864e0a959a.png)](https://luofluck.github.io/carta-romantica/)
   
+  - **Perfil escuela** - [README](https://github.com/LuOfLuck/perfil-sholl#readme)
+  [![Captura de pantalla (327)](https://user-images.githubusercontent.com/77320589/119204548-18308780-ba6c-11eb-9b62-ffc877eccf48.png)](https://luofluckv2.pythonanywhere.com/)
+
 
  - **Preguntas** - [README](https://github.com/LuOfLuck/preguntas#readme)
   [[![Captura de pantalla (334)](https://user-images.githubusercontent.com/77320589/119210153-3b196680-ba81-11eb-91e4-3b6991119e0e.png)](http://luofluck.epizy.com/preguntas)
