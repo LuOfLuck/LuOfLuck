@@ -26,7 +26,7 @@ Soy un desarrollador web y entusiasta del aprendizaje. Realmente disfruto progra
 [![Captura de pantalla (37)](https://user-images.githubusercontent.com/77320589/150698040-56b9fdcb-453f-467f-877d-dd8879215c56.png)](https://enredate.com.ar)
 
 - **BLOG** -
-[![Captura de pantalla (44)](https://user-images.githubusercontent.com/77320589/158042127-7283e783-7dd0-4424-8cbc-0481a5f4f868.png)](https://blog.luofluck.tech/)
+[![Captura de pantalla (44)](https://user-images.githubusercontent.com/77320589/158042127-7283e783-7dd0-4424-8cbc-0481a5f4f868.png)](https://luofluck.blogspot.com/)
 
 - **Scape Web - beta** - [README](https://github.com/LuOfLuck/scapeweb)
 [![Captura de pantalla (22)](https://user-images.githubusercontent.com/77320589/146469122-30f17bee-f98d-4086-bd6a-020e20068a81.png)](https://luofluck.github.io/scapeweb)
