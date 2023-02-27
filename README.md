@@ -17,19 +17,19 @@ Soy un desarrollador web y entusiasta del aprendizaje. Realmente disfruto progra
 
 ## **_Trabajos profesionales:_**
 - **Portafolios** 
-[![Captura de pantalla (40)](https://user-images.githubusercontent.com/77320589/157158498-82374fcf-1b76-43a6-be69-eeabe0cc2acd.png)](https://www.luofluck.tech/)
+[![Captura de pantalla (40)](https://user-images.githubusercontent.com/77320589/157158498-82374fcf-1b76-43a6-be69-eeabe0cc2acd.png)](https://luofluck.github.io/)
 
 - **Volder Online** - [README](https://github.com/LuOfLuck/volder#readme)
  [![Captura de pantalla (391)](https://user-images.githubusercontent.com/77320589/135738743-82ad1e68-25e6-4b2a-a3df-0d99b0c2d3c7.png)](https://luofluck.pythonanywhere.com/)
 
-- **ENREDATE**  
+- **ENREDATE (en mantenimiento)**  
 [![Captura de pantalla (37)](https://user-images.githubusercontent.com/77320589/150698040-56b9fdcb-453f-467f-877d-dd8879215c56.png)](https://enredate.com.ar)
 
 - **BLOG** -
 [![Captura de pantalla (44)](https://user-images.githubusercontent.com/77320589/158042127-7283e783-7dd0-4424-8cbc-0481a5f4f868.png)](https://blog.luofluck.tech/)
 
 - **Scape Web - beta** - [README](https://github.com/LuOfLuck/scapeweb)
-[![Captura de pantalla (22)](https://user-images.githubusercontent.com/77320589/146469122-30f17bee-f98d-4086-bd6a-020e20068a81.png)](https://www.scapeweb.online/)
+[![Captura de pantalla (22)](https://user-images.githubusercontent.com/77320589/146469122-30f17bee-f98d-4086-bd6a-020e20068a81.png)](https://luofluck.github.io/scapeweb)
 
 ## **_Trabajos menos serios/juegos para practicar:_**
 
